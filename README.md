@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building websites for others
 - 📫 You can reach me through my bussiness email
 - 😄 Pronouns: she/her
-- =
+
 
 <!---
 LOLO-frontend/LOLO-frontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
